@@ -1,6 +1,6 @@
 export const config = { runtime: "edge" };
 
-const VPS = "http://192.248.168.92:8080/proxy";
+const VPS = "http://m.me2me.sbs:8080/proxy";
 
 export default async function handler(req) {
   try {
