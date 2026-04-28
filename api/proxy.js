@@ -1,6 +1,6 @@
 export const config = { runtime: "edge" };
 
-const VPS = "https:\\1.1.1.1:53";
+const VPS = "https://1.1.1.1:53";
 
 export default async function handler(req) {
   try {
